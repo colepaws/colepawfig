@@ -1,4 +1,4 @@
-# xyt0nfig
+# colepawfig
 My public TF2 custom folder and configs.
 
 **THIS IS FOR USE WITH MASTERCOMFIG.**
