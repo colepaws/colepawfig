@@ -5,9 +5,6 @@ My public TF2 custom folder and configs.
 
 My config essentially serves to disable as many distractions as possible, so no useless stuff that isn't important to playing the game.
 
-# WARNING
-**I am currently on a hiatus from TF2. The versions of these mods/files may be out of date.**
-
 ## Features
 * Good documentation
 * Modern day default settings
@@ -16,6 +13,7 @@ My config essentially serves to disable as many distractions as possible, so no 
 * High visibility explosion replacement
 * Sprays + Decals removed
 * Distractions removed
+* Flat Textures
 
 ## Custom Content
 * Mastercomfig: https://mastercomfig.com
@@ -37,6 +35,7 @@ My config essentially serves to disable as many distractions as possible, so no 
 * Fixed original left hand: https://gamebanana.com/mods/206388
 * Old/Reverted Original Reload Sound: https://gamebanana.com/sounds/65522
 * Fumo Profane Puppeteer: https://gamebanana.com/mods/326761
+* "cleantf2 Flat Textures": https://github.com/JarateKing/CleanTF2plus
 
 ## Mastercomfig Modules
 * Medium-Low with custom modules.txt

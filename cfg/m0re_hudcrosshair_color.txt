@@ -1,0 +1,1 @@
+x { CustomCrosshair { fgcolor m0regreen } } 

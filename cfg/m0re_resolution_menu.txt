@@ -1,0 +1,1 @@
+X { HUD_Resolution_Menu { visible 0 } } 

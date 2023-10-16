@@ -1,0 +1,1 @@
+#base ../resource/scheme/color_themes/theme_magenta.res 
