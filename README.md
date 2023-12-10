@@ -49,4 +49,4 @@ My config essentially serves to disable as many distractions as possible, so no 
 
 
 ## Screenshots
-[A Screenshot gallery on Imgur](https://imgur.com/a/y0zXXln)
+[A Screenshot gallery on Imgur](https://imgur.com/a/r8YFdSk)
