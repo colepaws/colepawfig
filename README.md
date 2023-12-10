@@ -3,6 +3,8 @@ My public TF2 custom folder and configs.
 
 **THIS IS FOR USE WITH MASTERCOMFIG.**
 
+**Warning: This config is intended for DirectX 9+, as it has the best performance and visibility. Adding -dxlevel 95 to your launch options enables this.**
+
 My config essentially serves to disable as many distractions as possible, so no useless stuff that isn't important to playing the game.
 
 ## Features
