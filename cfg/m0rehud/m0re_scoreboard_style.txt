@@ -1,0 +1,1 @@
+#base ../../resource/ui/customizations/scoreboard/scoreboard_foster.res 
