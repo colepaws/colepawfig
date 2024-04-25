@@ -18,7 +18,7 @@ This is my personal Team Fortress 2 config built for competitive integrity, visi
 * [Resized Explosions](https://drive.google.com/file/d/0B_loCHMSRedyYXB5b0t0U3c2SE0)
 * [No Halloween Healthkits](https://gamebanana.com/mods/401775)
 * [Mastercomfig + Addons](https://mastercomfig.com)
-* [No Action Items, Botkillers, Christmas Lights, Cosmetics, and Skins](https://pevhs.ch/tf2/vpk/nhbgum/) (The No Cosmetics mod needs to be unpacked)
+* [No Action Items, Botkillers, Christmas Lights, Cosmetics, and Skins](https://pevhs.ch/tf2/vpk/nhbgum/) (Unpack [no_hats_bgum.7z](custom/no_hats_bgum.7z))
 * [No Custom Decals](https://gamebanana.com/mods/295666)
 * [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)
 * [Original Left Hand Fix](https://drive.google.com/file/d/1LK6E2exUce3kGID2wESCvb18_Zpt-d2Q)
