@@ -24,6 +24,7 @@ This is my personal Team Fortress 2 config built for competitive integrity, visi
 * [Original Left Hand Fix](https://drive.google.com/file/d/1LK6E2exUce3kGID2wESCvb18_Zpt-d2Q)
 * [Old Original Sound](https://gamebanana.com/sounds/65522)
 * [Sniper Scope MipMap + Refractions Fix](https://gamebanana.com/mods/388222)
+These mods are all verified for skial in the [skial_verified](custom/skial_verified.7z) folder, you'll just have to unpack them.
 
 ## Q&A
 
