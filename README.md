@@ -3,6 +3,7 @@
 This is my personal Team Fortress 2 config built for maximum visibility, competitive integrity, and stability in mind.
 
 **NOTE:** This config is completely reliant on [Mastercomfig](https://mastercomfig.com), [Mastercomfigs settings](cfg/overrides/modules.cfg), and the provided [autoexec.cfg](cfg/overrides/autoexec.cfg). It's also recomended to use DirectX level 95 for stability, visibility, and compatibility with my config. You can use my [launch options](cfg/overrides/autoexec.cfg#L19), as they include the DirectX Level, resolution, optimizations, and security focused Launch Arguments.
+**Regarding the [config.cfg:](cfg/overrides/config.cfg)** This is probably going to have settings that change per commit, and that's not something to worry about. Loading in game will change and correctly set any values that might get all messed up, since my [autoexec.cfg](cfg/overrides/autoexec.cfg) does that.
 
 **Regaring Casual:** I have literally no idea what works and what doesn't with my config, be it mods or settings. I don't play casual so I'm not going to test anything, but be my guest.
 
@@ -21,11 +22,13 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 * [No Halloween Healthkits](https://gamebanana.com/mods/401775)
 * [Mastercomfig + Addons](https://mastercomfig.com)
 * [No Action Items, Botkillers, Christmas Lights, Cosmetics, and Skins](https://pevhs.ch/tf2/vpk/nhbgum/) (Unpack [no_hats_bgum.7z](custom/no_hats_bgum.7z))
+* Disabled [killstreak](custom/customsounds/sounds/misc/killstreak.wav) sound and banner in HUD.
 * [No Custom Decals](https://gamebanana.com/mods/295666)
 * [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)
 * [Original Left Hand Fix](https://drive.google.com/file/d/1LK6E2exUce3kGID2wESCvb18_Zpt-d2Q)
 * [Old Original Sound](https://gamebanana.com/sounds/65522)
 * [Sniper Scope MipMap + Refractions Fix](https://gamebanana.com/mods/388222)
+* [Altered Short Circuit](https://gamebanana.com/mods/11900)
 
 ## Q&A
 
@@ -47,4 +50,4 @@ Don't get me wrong, TF2 has some really cool cosmetics. I even spent a pretty re
 
 ## Special thanks
 * mastercoms for her amazing work for TF2 optimization and in depth documentation for the game
-* Good friend [Espi](https://github.com/espimarisa) for some scripting help
+* lovely [Espi](https://github.com/espimarisa) for some scripting help
