@@ -4,7 +4,7 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 
 **NOTE:** This config is completely reliant on [Mastercomfig](https://mastercomfig.com), [Mastercomfigs settings](cfg/overrides/modules.cfg), and the provided [autoexec.cfg](cfg/overrides/autoexec.cfg). It's also recomended to use DirectX level 95 for stability, visibility, and compatibility with my config. You can use my [launch options](cfg/overrides/autoexec.cfg#L19), as they include the DirectX Level, resolution, optimizations, and security focused Launch Arguments.
 
-**Regarding the [config.cfg:](cfg/overrides/config.cfg)** This is probably going to have settings that change per commit, and that's not something to worry about. Loading in game will change and correctly set any values that might get all messed up, since my [autoexec.cfg](cfg/overrides/autoexec.cfg) does that.
+**Regarding the [config.cfg:](cfg/config.cfg)** This is probably going to have settings that change per commit, and that's not something to worry about. Loading in game will change and correctly set any values that might get all messed up, since my [autoexec.cfg](cfg/overrides/autoexec.cfg) does that.
 
 **Regaring Casual:** I have literally no idea what works and what doesn't with my config, be it mods or settings. I don't play casual so I'm not going to test anything, but be my guest.
 
