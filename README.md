@@ -34,7 +34,7 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 ## Q&A
 
 ###  Why not use DirectX 8?
-DirectX 8 is an **EXTREMELY** oudated version of DirectX dating back to the early 2000s. It lacks the proper optimizations, features, and compatibility that higher DirectX levels have, such as certain rendering features like Phong, Specular, BumpMaps, Outlines, and is generally more broken and crashes quite often. The rendering features mentioned above are extremely important for visibility as they assist in helping players stand out against the background.
+DirectX 8 is an **EXTREMELY** oudated version of DirectX dating back to the early 2000s. It lacks proper optimizations, has awful alt tabbing, and other minor details that I just can't stand. If you like the "look" of dx8, you can achieve it using some graphics settings and get a much better experience.
 
 ### It looks awful! Why do you play like this?
 Growing up, I had a really, really bad laptop that could barely run TF2, specifically a [Lenovo Yoga 900](https://www.techradar.com/reviews/pc-mac/laptops-portable-pcs/laptops-and-netbooks/lenovo-yoga-900-1307062/review/2). This thing was really, really bad. I had to lower basically all of my settings to get it to even break 60fps. That means crunchy graphics and all. Pretty grim right? I got so used to those settings that playing with anything else just feels extremely strange and off putting.
