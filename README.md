@@ -13,12 +13,14 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 * Useful scripts for hiding the viewmodel, turning off chat, and other class specific scripts
 * Comments on every command and setting describing how it affects TF2
 * My custom m0rehud, focused on quick absorbtion of information, and visibility
+* Disabled custom decals, sprays, and the ability to view items custom names and descriptions
 
  ## Mods
 
 * [Modern Casual Preloader](https://gamebanana.com/wips/79779)
 * [Altered Short Circuit](https://gamebanana.com/mods/11900)
 * [Anti Noisemaker](https://cobyyolo.vip/mods/files/Anti-Noisemaker.vpk)
+* [Flat Textures](https://github.com/JarateKing/CleanTF2plus)
 * [Disable Miss Pauling](https://gamebanana.com/mods/325900)
 * [Domination Removal](https://gamebanana.com/mods/36617)
 * [Resized Explosions](https://drive.google.com/file/d/0B_loCHMSRedyYXB5b0t0U3c2SE0)
