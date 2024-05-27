@@ -1,4 +1,0 @@
-//SHELLS
-	   "models/weapons/shells/shell_pistol.mdl"
-	   "models/weapons/shells/shell_shotgun.mdl"
-	   "models/weapons/shells/shell_sniperrifle.mdl"
