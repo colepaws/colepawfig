@@ -10,6 +10,7 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 
 ## Features
 * Removed distractions such as dominations, custom decals, noisemakers, halloween souls, gibs, and Explosions
+* Flat textures
 * Useful scripts for hiding the viewmodel, turning off chat, and other class specific scripts
 * Comments on every command and setting describing how it affects TF2
 * My custom m0rehud, focused on quick absorbtion of information, and visibility
