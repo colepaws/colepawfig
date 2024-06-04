@@ -9,7 +9,7 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 **Regarding Casual:** I have literally no idea what works and what doesn't with my config, be it mods or settings. I don't play casual so I'm not going to test anything, but be my guest.
 
 ## Features
-* Removed distractions such as muzzle flashes, tracers, shell casings, dominations, custom decals, noisemakers, halloween souls, gibs, and explosions
+* Removed distractions such as shell casings, tracers, dominations, custom decals, noisemakers, halloween souls, gibs, explosions, festivizers, and zombie skins
 * Flat textures
 * Useful scripts for hiding the viewmodel, turning off chat, and other class specific scripts
 * Comments on every command and setting describing how it affects TF2
@@ -23,16 +23,18 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 * [Flat Textures](https://github.com/JarateKing/CleanTF2plus)
 * [Disable Miss Pauling](https://gamebanana.com/mods/325900)
 * [Domination Removal](https://gamebanana.com/mods/36617)
-* [Resized Explosions + No muzzleflash, shellcasing, tracers](https://comfig.app/app)
+* [Resized Explosions, shellcasings, and tracers](https://comfig.app/app)
 * [No Halloween Healthkits](https://gamebanana.com/mods/401775)
 * [Mastercomfig + Addons](https://mastercomfig.com)
-* [No Action Items, Botkillers, and Christmas Lights](https://pevhs.ch/tf2/vpk/nhbgum/)
+* [No Botkillers, Zombie Skins, and Christmas Lights](https://pevhs.ch/tf2/vpk/nhbgum/)
+* [No Casual Badge, Statclock, MvM Canteens, and Spellbooks] (https://gamebanana.com/mods/470051)
 * Disabled [killstreak](custom/customsounds/sounds/misc/killstreak.wav) sound and banner in HUD.
 * [No Custom Decals](https://gamebanana.com/mods/295666)
 * [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)
 * [Original Left Hand Fix](https://drive.google.com/file/d/1LK6E2exUce3kGID2wESCvb18_Zpt-d2Q)
 * [Recompilation of LODs](https://gamebanana.com/mods/482999)
-* [Rocket Launcher replaces Original](http://www.mediafire.com/file/h9cedflf89ofbq4/stock_sounds_for_orig.rar/file)
+* [Rocket Launcher replaces Original](https://www.dropbox.com/s/vzya8l8v5qzw3le/rpgsounds.zip?dl=1)
+* [Quake Health+Ammo pickups] (https://yhn.fyi/files/tf2/!simple_items.vpk)
 * [Sniper Scope MipMap + Refractions Fix](https://gamebanana.com/mods/388222)
 
 ## Q&A
