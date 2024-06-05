@@ -28,7 +28,7 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 * [No Halloween Healthkits](https://gamebanana.com/mods/401775)
 * [Mastercomfig + Addons](https://mastercomfig.com)
 * [No Skins, Botkillers, Zombie Skins, and Christmas Lights](https://pevhs.ch/tf2/vpk/nhbgum/)
-* [No Casual Badge, Statclock, MvM Canteens, and Spellbooks] (https://gamebanana.com/mods/470051)
+* [No Casual Badge, Statclock, MvM Canteens, and Spellbooks](https://gamebanana.com/mods/470051)
 * [No Botkillers, Zombie Skins, and Christmas Lights](https://pevhs.ch/tf2/vpk/nhbgum/)
 * [No Casual Badge, Statclock, MvM Canteens, and Spellbooks](https://gamebanana.com/mods/470051)
 * Disabled [killstreak](custom/customsounds/sounds/misc/killstreak.wav) sound and banner in HUD.
