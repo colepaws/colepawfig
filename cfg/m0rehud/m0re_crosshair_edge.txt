@@ -1,1 +1,0 @@
-#base ../../resource/ui/customizations/crosshair/crosshair_outline.res 

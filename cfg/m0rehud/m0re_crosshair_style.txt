@@ -1,1 +1,1 @@
-x { CustomCrosshair { labeltext > } } 
+x { CustomCrosshair { labeltext $ } } 

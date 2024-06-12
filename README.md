@@ -21,6 +21,7 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 
 * [Altered Short Circuit](https://gamebanana.com/mods/11900)
 * [Anti Noisemaker](https://cobyyolo.vip/mods/files/Anti-Noisemaker.vpk)
+* [Better Killfeed Icons](https://gamebanana.com/mods/406361_)
 * [Flat Textures](https://github.com/JarateKing/CleanTF2plus)
 * [Disable Miss Pauling](https://gamebanana.com/mods/325900)
 * [Domination Removal](https://gamebanana.com/mods/36617)
