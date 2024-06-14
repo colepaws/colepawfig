@@ -9,8 +9,8 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 **Regarding Casual:** I have literally no idea what works and what doesn't with my config, be it mods or settings. I don't play casual so I'm not going to test anything, but be my guest.
 
 ## Features
-* Maximized visibility with the use of Phong shading, Specular mapping, Bumpmaps, lightwarps, Rimlighting, Player shadows, and DirectX 9 enabled
-* Removed distractions such as Unusuals, shell casings, tracers, dominations, custom decals, noisemakers, halloween souls, gibs, explosions, festivizers, and zombie skins
+* Maximized visibility with the use of Phong shading, Specular mapping, Bumpmaps, Lightwarps, Rimlighting, Player shadows, and DirectX 9 enabled
+* Removed distractions such as shell casings, tracers, dominations, custom decals, noisemakers, halloween souls, gibs, explosions, festivizers, and zombie skins
 * Flat textures
 * Useful scripts for hiding the viewmodel, turning off chat, and other class specific scripts
 * Comments on every command and setting describing how it affects TF2
@@ -19,13 +19,14 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 
  ## Mods
 
+* [Modern Casual Preloader](https://gamebanana.com/wips/79779)
 * [Altered Short Circuit](https://gamebanana.com/mods/11900)
 * [Anti Noisemaker](https://cobyyolo.vip/mods/files/Anti-Noisemaker.vpk)
 * [Better Killfeed Icons](https://gamebanana.com/mods/406361_)
 * [Flat Textures](https://github.com/JarateKing/CleanTF2plus)
+* [Resized Explosions, removed shellcasings and tracers](https://comfig.app/app)
 * [Disable Miss Pauling](https://gamebanana.com/mods/325900)
 * [Domination Removal](https://gamebanana.com/mods/36617)
-* [Resized Explosions, removed shellcasings and tracers](https://comfig.app/app)
 * [No Halloween Healthkits](https://gamebanana.com/mods/401775)
 * [Mastercomfig + Addons](https://mastercomfig.com)
 * [No Unusuals, Skins, Botkillers, Zombie Skins, and Christmas Lights](https://pevhs.ch/tf2/vpk/nhbgum/)
@@ -34,8 +35,9 @@ This is my personal Team Fortress 2 config built for maximum visibility, competi
 * [No Custom Decals](https://gamebanana.com/mods/295666)
 * [No Halloween Souls](https://drive.google.com/file/d/1Yss7TO_o3zr0b3Xmg45OHBa78WUZNA_f)
 * [Original Left Hand Fix](https://drive.google.com/file/d/1LK6E2exUce3kGID2wESCvb18_Zpt-d2Q)
-* [Rocket Launcher replaces Original](https://drive.google.com/file/d/1OpFktTQ0XU-Capvn9Zy_9Q1lwt7Ajk2M/view)
 * [Quake Health+Ammo pickups](https://yhn.fyi/files/tf2/!simple_items.vpk)
+* [Recompilation of LODs](https://gamebanana.com/mods/482999)
+* [Rocket Launcher replaces Original](https://drive.google.com/file/d/1OpFktTQ0XU-Capvn9Zy_9Q1lwt7Ajk2M/view)
 * [Sniper Scope MipMap + Refractions Fix](https://gamebanana.com/mods/388222)
 
 ## Screenshots
