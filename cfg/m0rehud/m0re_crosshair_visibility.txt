@@ -1,1 +1,1 @@
-x { CustomCrosshair { visible 0 } } 
+x { CustomCrosshair { visible 1 } } 

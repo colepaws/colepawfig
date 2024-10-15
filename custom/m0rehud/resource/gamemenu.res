@@ -42,13 +42,7 @@
 	"HUDOptions"
 	{
 		"label"										"HUD Options"
-		"command"									"engine cl_mainmenu_safemode 1; mat_queue_mode 0"
-	}
-	"Friends"
-	{
-		"label"										"k"
-		"command"									"motd_show"
-		"tooltip"									"Friends List"
+		"command"									"engine cl_mainmenu_safemode 1; mat_queue_mode 0; gameui_preventescape"
 	}
 	"Workshop"
 	{
@@ -70,6 +64,18 @@
 		"label"										"Quit"
 		"command"									"engine replay_confirmquit"
 		"OnlyAtMenu"								"1"
+	}
+
+	"Friends"
+	{
+		"label"										"k"
+		"command"									"motd_show"
+		"tooltip"									"Friends List"
+	}
+	"Quickplay"
+	{
+		"label"										"n"
+		"command"									"engine replay_reloadbrowser"
 	}
 
 	//====================================================================================================================================================
@@ -101,13 +107,6 @@
 		"tooltip"									"Mute a Player"
 		"OnlyInGame"								"1"
 	}
-	"Report"
-	{
-		"label"										"K"
-		"command"									"OpenReportPlayerDialog"
-		"tooltip"									"Report a Player"
-		"OnlyInGame"								"1"
-	}
 	"Achievements"
 	{
 		"label"										"J"
@@ -115,11 +114,18 @@
 		"tooltip"									"Achievements"
 		"OnlyInGame"								"1"
 	}
-	"Fix_Glitches"
+	"HUD_Sound_Reload"
 	{
 		"label"										"%"
-		"command"									"engine stop; record fix; hud_reloadscheme; snd_restart"
-		"tooltip"									"Fix Visual/Sound Glitches"
+		"command"									"engine hud_reloadscheme; snd_restart"
+		"tooltip"									"Reload HUD and Sound"
+		"OnlyInGame"								"1"
+	}
+	"Fix_Visual_Glitches"
+	{
+		"label"										"D"
+		"command"									"engine stop; ds_record"
+		"tooltip"									"Fix Visual Glitches"
 		"OnlyInGame"								"1"
 	}
 }
