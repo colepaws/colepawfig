@@ -1,1 +1,1 @@
-#base ../../custom/m0rehud-linux/resource/ui/customizations/colors/crosshair/crosshair_green.res 
+#base ../../resource/ui/customizations/colors/crosshair/crosshair_green.res 
